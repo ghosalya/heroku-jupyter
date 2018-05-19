@@ -17,6 +17,12 @@ dependencies:
   - six
   - sqlalchemy
   - nose
+  - pytorch
+  - numpy
+  - scipy
+  - mxnet
   - pip:
     - pgcontents
+	- matplotlib
+	- h5py
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
