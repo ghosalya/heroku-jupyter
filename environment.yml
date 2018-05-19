@@ -21,8 +21,9 @@ dependencies:
   - numpy
   - scipy
   - mxnet
+  - h5py
+  - matplotlib
   - pip:
     - pgcontents
-	- matplotlib
-	- h5py
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
+
