@@ -18,7 +18,6 @@ dependencies:
   - sqlalchemy
   - nose
   - numpy
-  - scipy
   - h5py
   - matplotlib
   - pip:
